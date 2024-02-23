@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "788890484668",
+    "firebase_url": "https://flutter-app-323d0-default-rtdb.firebaseio.com",
+    "project_id": "flutter-app-323d0",
+    "storage_bucket": "flutter-app-323d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788890484668:android:845b34464bd34fae8775b9",
+        "android_client_info": {
+          "package_name": "com.sujina.clothingPalette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFJmk0v0GIpjkcXAGtACGbNYDbbC3NBoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
